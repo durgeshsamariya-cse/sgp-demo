@@ -1,1 +1,3 @@
-# sgp-demo
+# SGP Demo
+
+## Title: How to use Git and GitHub
